@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsmitaChorge
-- 👀 I’m interested in cybersecurity 
+- 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Data analytics 
-- 💞️ I’m looking to collaborate on data-driven cybersecurity projects and research
+- 💞️ I’m looking to collaborate on data-driven machine learning projects and research
 - 📫 How to reach me chorgeasmita23@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a closet vlogger with a terabyte of unedited footage.
